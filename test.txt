@@ -1,3 +1,4 @@
 Work done on my-feature:
 - implemented X
 - how to test: run ./run-example
+more new things added
